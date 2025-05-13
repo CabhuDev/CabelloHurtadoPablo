@@ -54,7 +54,7 @@ function saludar(string $nombre, ?string $idioma = 'es'): string
 // Ejemplo de uso
 // ─────────────────────────────
 
-echo saludar('Mundo') . PHP_EOL;
+echo saludar('Mundo de Pablo') . PHP_EOL;
 echo "5! = " . factorial(5) . PHP_EOL;
 
 
